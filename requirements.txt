@@ -1,0 +1,10 @@
+fasttext-langdetect
+translators
+nltk
+sacremoses
+sentence-transformers
+faiss-cpu
+pyserini
+tensorflow
+tensorflow-hub
+tensorflow-text

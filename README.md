@@ -6,7 +6,7 @@ In this repository, the queries used in the mixed-language retrieval system cont
 
 A high level diagram of the system is as follows:
 
-![Picture](https://github.com/nilesh-hegde/Mixed-Language-Retrieval/assets/55364143/c5701004-04e5-494e-8db2-f7ee8f8465cb){ width="800" height="600" style="display: block; margin: 0 auto" }
+<center>![pipeline](https://github.com/nilesh-hegde/Mixed-Language-Retrieval/assets/55364143/c5701004-04e5-494e-8db2-f7ee8f8465cb)</center>
 
 
 

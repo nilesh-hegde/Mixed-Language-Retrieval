@@ -8,5 +8,7 @@ A high level diagram of the system is as follows:
 
 <center>![pipeline](https://github.com/nilesh-hegde/Mixed-Language-Retrieval/assets/55364143/c5701004-04e5-494e-8db2-f7ee8f8465cb)</center>
 
-
+<p align="center">
+  <img src="https://github.com/nilesh-hegde/Mixed-Language-Retrieval/assets/55364143/c5701004-04e5-494e-8db2-f7ee8f8465cb" />
+</p>
 

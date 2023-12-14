@@ -1,7 +1,4 @@
--- CS 6200 - IR
-
--- Final Project
-	-- Mixed-Language Retrieval
+-- Mixed-Language Retrieval repository unstructions file
 
 -- All files other than notebooks (*.ipynb) and scripts (*.py) need tp be in the same folder as and when required if the files are being executed locally.
 
